@@ -1,0 +1,22 @@
+{
+    "users": {
+        "Даня": {
+            "balance": 1000
+        },
+        "Кирилл": {
+            "balance": 890
+        }
+    },
+    "items": [
+        {
+            "title": "Кириешка ",
+            "description": "Крутая кирешка супер крутая абладеннса",
+            "contact": "+79997776767",
+            "address": "Улица пушкина дом калатшуки",
+            "price": 110,
+            "author": "Даня",
+            "image": "C:/Users/пользователь/Pictures/Screenshots/Снимок экрана.jpg",
+            "highest_bidder": "Кирилл",
+            "end_time": 1779528173,
+            "completed": true,
+            "timer_widget": 
